@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.slider-container{
+  overflow: hidden;
+}
