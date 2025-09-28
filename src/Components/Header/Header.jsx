@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <div className="text-white bg-[#282828] border-b-4 border-[#FFB800] font-popins">
       <Container>
-        <div className="md:flex py-[16px] justify-between">
+        <div className="md:flex py-[16px] justify-between px-5 md:px-0">
           <div className="md:flex space-x-[50px]">
             <div className="flex items-center gap-2">
               <IoMailUnread />

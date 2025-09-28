@@ -30,7 +30,7 @@ const [okey,setOkey] = useState (false)
           </div>
         </div>
 
-        <div className="flex  items-center justify-between">
+        <div className="flex  items-center justify-between px-5 md:px-0">
           <div className="md:hidden block">
           <img src={petroil} alt="" />
         </div>

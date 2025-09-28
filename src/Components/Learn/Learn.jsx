@@ -13,8 +13,8 @@ const Learn = () => {
             </h4>
           </div>
 
-          <div className=" relative bg-[url('./assets/road.png')] py-[50px] px-[100px] md:py-[132px] md:px-[282px] w-fit md:w-full bg-no-repeat bg-cover ">
-            <button className="hover:bg-[#7FFF00] border-none hover:text-red-500 bg-white font-bold transition duration-500   px-10 py-5  ">
+          <div className=" relative bg-[url('./assets/road.png')] py-[50px]  md:py-[132px] md:px-[282px] w-full md:w-full bg-no-repeat bg-cover ">
+            <button className="hover:bg-[#7FFF00] border-none hover:text-red-500 bg-white font-bold transition duration-500  flex m-auto px-[20px] py-5  ">
               LEARN MORE
             </button>
           </div>

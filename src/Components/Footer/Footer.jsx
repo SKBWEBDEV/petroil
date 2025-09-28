@@ -14,7 +14,7 @@ const Footer = () => {
   return (
     <div className="bg-[#1F1F1F] text-white py-[50px] md:py-[160px] font-poppins">
       <Container>
-        <div className= "md:flex  justify-between">
+        <div className= "md:flex  justify-between px-5 md:px-0">
           <div>
             <img src={petro} alt="" />
             <div className="flex items-center mt-[33px] gap-[7px] font-popins font-reguler md:text-[18px]">

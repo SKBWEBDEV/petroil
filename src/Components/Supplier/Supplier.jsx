@@ -3,7 +3,7 @@ import Container from "../Layouts/Container";
 const Supplier = () => {
   return (
     <Container>
-      <div className="md:flex justify-between items-center py-[80px] font-poppins">
+      <div className="md:flex justify-between items-center py-[80px] px-5 md:px-0 font-poppins">
         <div className="font-popins font-bold w-[289px] text-[25px] md:text-[48px]">
           <h2>The biggest supplier on the country</h2>
         </div>

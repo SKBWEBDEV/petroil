@@ -6,7 +6,7 @@ import Container from "../Layouts/Container"
 const Banner = () => {
   return (
     <div>
-      <div className="relative z-[1] bg-[url(./assets/banner.png)] py-[100px] md:py-[257px] bg-no-repeat bg-cover font-poppins">
+      <div className="relative z-[1] bg-[url(./assets/banner.png)] py-[100px] md:py-[257px] px-5 md:px-0 bg-no-repeat bg-cover font-poppins">
       <div className="absolute top-0 left-0 bg-[#000000]/50 w-full h-full z-[-1]"></div>
         
             <Container>
