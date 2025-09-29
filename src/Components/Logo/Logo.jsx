@@ -7,13 +7,13 @@ import bio from "../../assets/bio.png"
 
 const Logo = () => {
   return (
-    <div className="py-14 md:py-[117px]">
+    <div className="py-10 md:py-[117px]">
       <Container>
         <div className=" md:flex md:gap-[26px] ">
-          <img src={pet} alt="" />
-          <img src={the} alt="" />
-          <img src={bar} alt="" />
-          <img src={bio} alt="" />
+          <img className="w-[150px] h-[50px] ml-30 " src={pet} alt="" />
+          <img className="w-[150px] h-[50px] ml-30 mt-5" src={the} alt="" />
+          <img className="w-[150px] h-[50px] ml-30 mt-5" src={bar} alt="" />
+          <img className="w-[150px] h-[50px] ml-30 mt-5" src={bio} alt="" />
         </div>
       </Container>
     </div>

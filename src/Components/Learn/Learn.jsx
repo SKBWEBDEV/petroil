@@ -4,7 +4,7 @@ import Container from "../Layouts/Container"
 
 const Learn = () => {
   return (
-    <div className="bg-[#F0F0F0] py-[50px] md:py-[136px]">
+    <div className="bg-[#F0F0F0] py-[50px] md:py-[136px] mt-5">
       <Container>
          <div className="md:flex">
           <div className="bg-[#F40404] w-full text-center h-full text-white font-poppins font-bold md:text-[36px]">
@@ -14,7 +14,7 @@ const Learn = () => {
           </div>
 
           <div className=" relative bg-[url('./assets/road.png')] py-[50px]  md:py-[132px] md:px-[282px] w-full md:w-full bg-no-repeat bg-cover ">
-            <button className="hover:bg-[#7FFF00] border-none hover:text-red-500 bg-white font-bold transition duration-500  flex m-auto px-[20px] py-5  ">
+            <button className="hover:bg-[#7FFF00] border-none hover:text-red-500 bg-white font-bold transition duration-500  flex m-auto px-[20px] md:py-3 py-2  ">
               LEARN MORE
             </button>
           </div>

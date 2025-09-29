@@ -13,8 +13,9 @@ const Services = () => {
 
         <div className="z-[1] relative bg-[url('./assets/one.png')] md:py-[150px] w-auto md:w-[50%] bg-no-repeat bg-cover py-[30px] mt-[15px] md:mt-0">
           <div className=" z-[-1] absolute h-full w-full top-0 left-0 bg-black/50"></div>
-          <h1 className="text-white font-popins font-bold text-[20px] md:text-[36px] text-center md:ml-[116px] md:text-left">Modern natural oil and gas refineries.</h1>
-          <button className="bg-red-500 hover:bg-[#7FFF00] hover:text-black transition duration-400 ease-in-out py-[13px] px-[40px] text-white font-popins font-semibold ml-[116px] mt-[19px]">LEARN MORE</button>
+          <h1 className="text-white font-popins font-bold text-[18px] md:text-[36px] text-center md:ml-[116px] md:text-left">Modern natural oil and gas refineries.</h1>
+          <button className="bg-red-500 hover:bg-[#7FFF00] hover:text-black transition duration-400 ease-in-out 
+          md:py-[13px] md:px-[40px] px-[20px] py-[8px] text-white font-popins font-semibold ml-[110px] mt-[19px]">LEARN MORE</button>
         </div>
 
         
@@ -23,14 +24,15 @@ const Services = () => {
       <div className="md:flex">
          <div className="z-[1] relative bg-[url('./assets/two.png')] md:py-[150px] w-auto md:w-[50%] bg-no-repeat bg-cover py-[30px] mt-[15px] md:mt-0">
           <div className=" z-[-1] absolute h-full w-full top-0 left-0 bg-black/50"></div>
-          <h1 className="text-white font-popins font-bold text-[20px] text-center md:text-left md:text-[36px] md:ml-[116px]">Supply of national industries.</h1>
-          <button className="bg-red-500 hover:bg-[#7FFF00] hover:text-black transition duration-400 py-[13px] px-[40px] text-white font-popins font-semibold ml-[116px] mt-[19px]">LEARN MORE</button>
+          <h1 className="text-white font-popins font-bold text-[18px] text-center md:text-left md:text-[36px] md:ml-[116px]">Supply of national industries.</h1>
+          <button className="bg-red-500 hover:bg-[#7FFF00] hover:text-black transition duration-400  md:py-[13px]  
+          md:px-[40px] px-[20px] py-[8px] text-white font-popins font-semibold ml-[110px] mt-[19px]">LEARN MORE</button>
         </div>
 
          <div className="z-[1] relative bg-[url('./assets/three.png')]  md:py-[150px] w-auto md:w-[50%] bg-no-repeat bg-cover py-[30px] mt-[15px] md:mt-0">
           <div className=" z-[-1] absolute h-full w-full top-0 left-0 bg-black/50"></div>
-          <h1 className="text-white font-popins font-bold text-[20px] text-center md:text-left md:text-[36px] md:ml-[116px]">National fuel distribution and supply.</h1>
-          <button className="bg-red-500 hover:bg-[#7FFF00] hover:text-black transition duration-400 py-[13px] px-[40px] text-white font-popins font-semibold ml-[116px] mt-[19px]">LEARN MORE</button>
+          <h1 className="text-white font-popins font-bold text-[18px] text-center md:text-left md:text-[36px] md:ml-[116px]">National fuel distribution and supply.</h1>
+          <button className="bg-red-500 hover:bg-[#7FFF00] hover:text-black transition duration-400  md:py-[13px]  md:px-[40px] px-[20px] py-[8px] text-white font-popins font-semibold ml-[110px] mt-[19px]">LEARN MORE</button>
         </div>
       </div>
     </div>

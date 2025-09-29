@@ -11,7 +11,7 @@ const Lorem = () => {
               md:px-[44px] px-[30px]   mt-[20px]">
             <div className=" z-[-1] absolute bg-black/50 w-full h-full top-0 left-0"></div>
 
-            <h3 className="text-white font-popins font-bold w-[249px] text-[24px]">
+            <h3 className="text-white font-popins font-bold w-[280px] text-[20px]">
               lorem ipsum dolor sit amet consectetur adipiscing elit sed do
               eiusmod.
             </h3>
@@ -25,7 +25,7 @@ const Lorem = () => {
           md:px-[44px] px-[30px]   mt-[20px]">
             <div className=" z-[-1] absolute bg-black/50 w-full h-full top-0 left-0"></div>
 
-            <h3 className="text-white font-popins font-bold w-[249px] text-[24px]">
+            <h3 className="text-white font-popins font-bold w-[280px] text-[20px]">
               lorem ipsum dolor sit amet consectetur adipiscing elit sed do
               eiusmod.
             </h3>
@@ -39,7 +39,7 @@ const Lorem = () => {
           <div className="z-[1] relative bg-[url(./assets/iron.png)] bg-no-repeat bg-cover py-[20px] md:py-[75px] md:px-[44px] px-[30px]   mt-[20px]">
             <div className=" z-[-1] absolute bg-black/50 w-full h-full top-0 left-0"></div>
 
-            <h3 className="text-white font-popins font-bold w-[249px] text-[24px]">
+            <h3 className="text-white font-popins font-bold w-[280px] text-[20px]">
               lorem ipsum dolor sit amet consectetur adipiscing elit sed do
               eiusmod.
             </h3>
