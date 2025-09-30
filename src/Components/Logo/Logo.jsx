@@ -10,10 +10,10 @@ const Logo = () => {
     <div className="py-10 md:py-[117px]">
       <Container>
         <div className=" md:flex md:gap-[26px] ">
-          <img className="w-[150px] h-[50px] ml-30 " src={pet} alt="" />
-          <img className="w-[150px] h-[50px] ml-30 mt-5" src={the} alt="" />
-          <img className="w-[150px] h-[50px] ml-30 mt-5" src={bar} alt="" />
-          <img className="w-[150px] h-[50px] ml-30 mt-5" src={bio} alt="" />
+          <img className="md:w-full md:h-full md:ml-0 w-[150px] md:mt-0 h-[50px] ml-30 mt-5" src={pet} alt="" />
+          <img className="md:w-full md:h-full md:ml-0 w-[150px] md:mt-0 h-[50px] ml-30 mt-5" src={the} alt="" />
+          <img className="md:w-full md:h-full md:ml-0 w-[150px] md:mt-0 h-[50px] ml-30 mt-5" src={bar} alt="" />
+          <img className="md:w-full md:h-full md:ml-0 w-[150px] md:mt-0 h-[50px] ml-30 mt-5" src={bio} alt="" />
         </div>
       </Container>
     </div>
